@@ -1,2 +1,1 @@
 # voidminds
-Website For voidminds
